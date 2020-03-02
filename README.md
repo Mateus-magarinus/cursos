@@ -1,4 +1,4 @@
 # cursos
 Projetos feitos durante cursos
 
-Não esqueça usaro npm init
+Não esqueça usar o npm init
